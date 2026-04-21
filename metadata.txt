@@ -1,0 +1,21 @@
+[general]
+name=Perfil Hidráulico
+description=Plugin para análisis de perfiles hidráulicos a partir de DEMs y ejes de río.
+about=Herramienta especializada para ingeniería hidráulica que permite la generación de perfiles de terreno y niveles de agua. <br><br>
+    <b>Funcionalidades principales:</b><br>
+    - Cálculo de Área, Perímetro Mojado y Radio Hidráulico.<br>
+    - Determinación de Velocidad Media y Número de Froude.<br>
+    - Clasificación de régimen de flujo (Subcrítico/Supercrítico).<br>
+    - Gráficos dinámicos con contacto exacto de lámina de agua.<br><br>
+    <b>Descarga el plugin completo en GitHub:</b><br>
+    <a href="https://github.com/ANTENOR-GEOLOGO/perfil_hidraulico_v01">Repositorio Oficial - Descargar ZIP</a><br><br>
+    <b>Contacto:</b> <a href="mailto:antenor.rqf@gmail.com">antenor.rqf@gmail.com</a><br>
+    <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/antenor-raymundo-quispe-flores-691198168/">Perfil Profesional</a>
+version=1.1
+author=Antenor Raymundo Quispe Flores
+email=antenor.rqf@gmail.com
+category=Analysis
+tags=perfil, topografía, hidráulica, ingenieria, hec-ras
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+repository=https://github.com/ANTENOR-GEOLOGO/perfil_hidraulico_v01
